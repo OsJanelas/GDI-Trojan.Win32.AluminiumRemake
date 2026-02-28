@@ -1,4 +1,4 @@
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=e6ca30&text=AluminiumRemake.exe&fontSize=40&fontAlignY=40&animation=twinkling&section=header&desc=By%20OsJanelas%20"/> 
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00bfbf&text=AluminiumRemake.exe&fontSize=40&fontAlignY=40&animation=twinkling&section=header&desc=By%20OsJanelas%20"/> 
 
 <h2 align="center">Original Aluminium version made by: BelkasPRO and N7Pro3462/h2>
 
@@ -10,4 +10,4 @@
 
 * **Original Danger version showcase video:** **`https://youtube.com/watch?v=oq4UU6GwPW4`**
 
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e6ca30&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00bfbf&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 
