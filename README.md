@@ -1,6 +1,6 @@
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00bfbf&text=AluminiumRemake.exe&fontSize=40&fontAlignY=40&animation=twinkling&section=header&desc=By%20OsJanelas%20"/> 
 
-<h2 align="center">Original Aluminium version made by: BelkasPRO and N7Pro3462/h2>
+<h2 align="center">Original Aluminium version made by: BelkasPRO and N7Pro3462
 
 <h2 align="center">Original malware made by: JhoPro</h2>
 
